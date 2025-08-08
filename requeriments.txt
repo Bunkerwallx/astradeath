@@ -1,0 +1,42 @@
+# Análisis Forense Básico
+pytsk3==20210419
+libewf-python==20230212
+
+# Procesamiento de Imágenes/Metadatos
+Pillow==10.1.0
+python-magic==0.4.27
+pyexiftool==0.4.13
+olefile==0.46
+PyPDF2==3.0.1
+
+# Análisis de Memoria (Volatility3)
+volatility3==2.0.0
+
+# Criptografía y Seguridad
+cryptography==41.0.7
+Fernet==1.0.1
+
+# Base de Datos y API
+asyncpg==0.28.0
+aiosqlite==0.19.0
+fastapi==0.103.1
+uvicorn==0.23.2
+
+# Inteligencia Artificial
+numpy==1.26.0
+tensorflow==2.14.0
+transformers==4.34.0
+
+# Interfaz y Utilidades
+colorama==0.4.6
+tqdm==4.66.1
+python-socketio==5.10.0
+aiohttp==3.8.6
+
+# CLI Avanzado
+prompt-toolkit==3.0.39
+click==8.1.7
+
+# Gestión de Paquetes
+setuptools==68.2.2
+wheel==0.41.2o
